@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Isaque Rodrigues
 
 
-- 🌱 Estudando CSharp,HTML e CSS
+- 🌱 Estudando Python, CSharp,HTML e CSS
 - 📫 Contate-me no email: isaquerodrigues1033@gmail.com
 - 😄 Pronouns: ele/dele
  <div>
